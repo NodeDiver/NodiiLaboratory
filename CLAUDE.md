@@ -49,7 +49,7 @@ NodiiLaboratory/
 
 ---
 
-## Estructura Didáctica por Capítulo (Metodología SSI)
+## Estructura Didáctica por Capítulo (Metodología ACI)
 
 Para cursos interactivos futuros, cada capítulo dura **75 minutos**. Estructura:
 
@@ -188,4 +188,4 @@ git commit -m "docs: update README with troubleshooting section"
 - **Verificar** que comandos funcionen antes de documentar
 - **No asumir** conocimiento previo del lector
 - **Incluir** sección de troubleshooting en cada guía
-- Los cursos futuros usarán Slidev con la metodología SSI
+- Los cursos futuros usarán Slidev con la metodología ACI
